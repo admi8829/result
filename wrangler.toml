@@ -1,9 +1,8 @@
 name = "result"
 main = "worker.js"
 compatibility_date = "2024-01-01"
+compatibility_flags = [ "nodejs_compat" ] # ይህቺን መስመር ጨምር
 
 [vars]
-# እነዚህን በ Cloudflare Dashboard ላይ በ Secret መልክ መተካት ትችላለህ
 BOT_TOKEN = "8306938740:AAFM-wL2yutHYsyrp_BjgZkN2GM947ms4_M"
 GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbyToi2xArLw6fy8qfaNfsHb5bLSNTyW7YDMWdFTVJr5IGlQLJlUxo8HkVpJk_nHhjZ1/exec"
-
