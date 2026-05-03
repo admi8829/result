@@ -1,5 +1,5 @@
-name = "tg-quiz-bot"
-main = "index.js"
+name = "result"
+main = "worker.js"
 compatibility_date = "2024-01-01"
 
 [vars]
