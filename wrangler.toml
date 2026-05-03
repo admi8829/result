@@ -4,5 +4,5 @@ compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ] # ይህቺን መስመር ጨምር
 
 [vars]
-BOT_TOKEN = "8306938740:AAFM-wL2yutHYsyrp_BjgZkN2GM947ms4_M"
+BOT_TOKEN = "8306938740:AAGu5J99VUuKOKKOxzPI68HUWXS6m_-N0Jk"
 GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbyToi2xArLw6fy8qfaNfsHb5bLSNTyW7YDMWdFTVJr5IGlQLJlUxo8HkVpJk_nHhjZ1/exec"
